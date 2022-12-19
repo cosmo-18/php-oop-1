@@ -11,4 +11,19 @@ $useruno -> genere = 'azione';
 
 var_dump($useruno);
 
+
+rrayIst = [];
+
+for ($i = 0; $i < 1; $i++){
+
+    $useruno = new Movie('titolo', 'genere')
+
+    arrayIst [] = $useruno
+}
+
 ?>
+<!-- 
+<form action="">
+    <input type="text">
+    <input type="email">
+</form> -->
